@@ -1,0 +1,7 @@
+First name: anmol
+Last name: singh
+Age: 24
+Phone Number: 7411599815
+Designation: SoftwareDeveloper
+City: Bangalore
+Basic Salary: 20000

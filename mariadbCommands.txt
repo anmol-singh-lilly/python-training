@@ -1,0 +1,9 @@
+mariadb -u root -p
+Password: root
+
+show databases;
+use database_name;
+
+show tables;
+desc table_name;
+select * from table_name;

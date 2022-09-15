@@ -1,0 +1,15 @@
+
+Validations in Loop
+
+10 validations are required
+Enter not allowed, null values are not allowed
+All the fields are required
+All the details must be stored in file
+
+firstname - alphabets, not null, more than 3 characters
+last name - alphabets, not null, more than 2 characters
+phone number - numbers, 10 digits, not null
+age - number, more than 20 years, length is 3 max, not null
+City - alpha characters, not more than 100 characters, not null
+Salary - positive number, not null
+department name - not null
